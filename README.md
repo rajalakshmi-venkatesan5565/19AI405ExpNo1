@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Rajalakshmi V N</h3>
+<h3>Register Number:212225040327</h3>
 
 
 <h3>AIM:</h3>
@@ -126,4 +126,8 @@ if __name__ == "__main__":
 ```
 OUTPUT:
 <img width="959" height="599" alt="Screenshot 2026-07-25 105837" src="https://github.com/user-attachments/assets/055fad2c-2f31-4730-86fa-f4d16f68e449" />
+
+RESULT:
+
+The Medicine Prescribing AI Agent was successfully developed. It checks patient temperature, gives medicine if the temperature is above 98.5°F, moves between rooms, and calculates performance.
 
