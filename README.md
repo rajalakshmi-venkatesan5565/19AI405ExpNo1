@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Rajalakshmi V N</h3>
+<h3>Name: Rajalakshmi V </h3>
 <h3>Register Number:212225040327</h3>
 
 
